@@ -1,27 +1,21 @@
-# Helloworld
+# Angular 5 Tutorial Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
+[![Sauce Test Status](https://saucelabs.com/browser-matrix/angular2-ci.svg)](https://saucelabs.com/u/angular2-ci)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Screenshots
+[<img src="screenshots/1.png" width="850" />]()
+[<img src="screenshots/2.png" width="850" />]()
 
-## Code scaffolding
+# Angular
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Angular is a development platform for building mobile and desktop web applications using Typescript/JavaScript and other languages.
 
-## Build
+## Quickstart
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+[Get started in 5 minutes][quickstart].
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+[browserstack]: https://www.browserstack.com/automate/public-build/LzF3RzBVVGt6VWE2S0hHaC9uYllOZz09LS1BVjNTclBKV0x4eVRlcjA4QVY1M0N3PT0=--eb4ce8c8dc2c1c5b2b5352d473ee12a73ac20e06
+[contributing]: http://github.com/angular/angular/blob/master/CONTRIBUTING.md
+[quickstart]: https://angular.io/docs/ts/latest/quickstart.html
+[ng]: http://angular.io
