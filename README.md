@@ -4,8 +4,8 @@
 
 
 ## Screenshots
-[<img src="screenshots/1.png" width="850" />]()
-[<img src="screenshots/2.png" width="850" />]()
+[<img src="screenshot/1.png" width="850" />]()
+[<img src="screenshot/2.png" width="850" />]()
 
 # Angular
 
